@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import kicksLogo from './assets/logo.png'
-import Router   from './index'
+import Router   from './Index'
 import Api from './api'
 import * as Icon from '@heroicons/react/24/outline'
 import * as IconSolid from '@heroicons/react/24/solid'
