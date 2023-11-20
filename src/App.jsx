@@ -16,7 +16,7 @@ function NavLink ({ path, icon, text }) {
 }
 NavLink.propTypes = {
   path: PropTypes.string.isRequired,
-  icon: PropTypes.string.isRequired,
+  icon: PropTypes.node,
   text: PropTypes.string.isRequired
 }
 
