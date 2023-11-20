@@ -124,7 +124,7 @@ function App() {
           </div>
 
           {/* content */}
-          <main className='p-5'>
+          <main className='p-5 pe-10'>
             <Router />
           </main>
         </div>
